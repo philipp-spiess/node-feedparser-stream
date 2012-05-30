@@ -1,0 +1,23 @@
+{
+  "name": "feedparser-stream",
+  "author": "Philipp Spieß <hello@philippspiess.com>",
+  "description": "A streaming API (Polling) built on top of feedparser",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/philipp-spiess/node-feedparser-stream.git"
+  },
+  "keywords": ["rss", "feed", "atom", "rdf", "xml", "syndication", "polling", "stram"],
+  "main": "./index.js",
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "dependencies": {
+    "feedparser": ">= 0.9.7",
+    "underscore": "*",
+    "coffee-script": "*"
+  },
+  "devDependencies": {
+
+  }
+}
