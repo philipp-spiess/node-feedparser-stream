@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git://github.com/philipp-spiess/node-feedparser-stream.git"
   },
-  "keywords": ["rss", "feed", "atom", "rdf", "xml", "syndication", "polling", "stram"],
+  "keywords": ["rss", "feed", "atom", "rdf", "xml", "syndication", "polling", "stream"],
   "main": "./index.js",
   "engines": {
     "node": ">= 0.4.0"
